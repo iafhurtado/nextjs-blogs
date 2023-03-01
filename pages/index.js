@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>This is my first Next.JS applicatino following the tutorial from the Vercel documentation. It is an easy-to-follow, interactive tutorial that helped me learn about Assets, Metadata, CSS, navigating between Pages, Pre-Rendering and Data Fetching, Dynamic Routes, API Routes and much more. Thanks to the team.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
